@@ -1,0 +1,86 @@
+
+<CiscoIPPhoneDirectory>
+<Title>Cisco Coporate Directory</Title>
+<Prompt>Select the User</Prompt>
+
+<DirectoryEntry>
+<Name>Tina DiTullio</Name>
+<Telephone>101</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Brandon Reed</Name>
+<Telephone>102</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Elie Bengio, David Ivichek, Steven Reed</Name>
+<Telephone>103</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Charlene Suyat</Name>
+<Telephone>104</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Angel Duma</Name>
+<Telephone>106</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Wesley Reed</Name>
+<Telephone>107</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Peter Reed</Name>
+<Telephone>108</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Katherine Elmourne</Name>
+<Telephone>111</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Debbie Caldwell</Name>
+<Telephone>112/Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Jason Farber</Name>
+<Telephone>113</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Jason Farber</Name>
+<Telephone>113</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Daniel Lieberman</Name>
+<Telephone>115</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Warehouse</Name>
+<Telephone>114</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Factory-Maintenance Office</Name>
+<Telephone>132</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Factory-Label Office</Name>
+<Telephone>231</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Paging</Name>
+<Telephone>300</Telephone>
+</DirectoryEntry>
+
+</CiscoIPPhoneDirectory>
