@@ -54,11 +54,6 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Jason Farber</Name>
-<Telephone>113</Telephone>
-</DirectoryEntry>
-
-<DirectoryEntry>
 <Name>Daniel Lieberman</Name>
 <Telephone>115</Telephone>
 </DirectoryEntry>
@@ -71,6 +66,16 @@
 <DirectoryEntry>
 <Name>Factory-Maintenance Office</Name>
 <Telephone>132</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Factory - Maintenance</Name>
+<Telephone>133</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Factory - Supervisor Office</Name>
+<Telephone>134</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
