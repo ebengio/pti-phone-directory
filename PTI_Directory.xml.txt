@@ -59,6 +59,16 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
+<Name>Mike Mooney</Name>
+<Telephone>116</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>David Ivichek</Name>
+<Telephone>117</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
 <Name>Warehouse</Name>
 <Telephone>114</Telephone>
 </DirectoryEntry>
