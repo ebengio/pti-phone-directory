@@ -64,8 +64,13 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>David Ivichek</Name>
+<Name>Mukesh Kumar</Name>
 <Telephone>117</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Lisa Alonso</Name>
+<Telephone>118</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
