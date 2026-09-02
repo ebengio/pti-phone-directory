@@ -14,7 +14,7 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Elie Bengio, David Ivichek, Steven Reed</Name>
+<Name>Elie Bengio</Name>
 <Telephone>103</Telephone>
 </DirectoryEntry>
 
@@ -36,6 +36,11 @@
 <DirectoryEntry>
 <Name>Peter Reed</Name>
 <Telephone>108</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Jeff Takayesu</Name>
+<Telephone>109</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
@@ -71,6 +76,11 @@
 <DirectoryEntry>
 <Name>Lisa Alonso</Name>
 <Telephone>118</Telephone>
+</DirectoryEntry>
+
+<DirectoryEntry>
+<Name>Volt Conference Room</Name>
+<Telephone>119</Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
