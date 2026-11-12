@@ -24,7 +24,7 @@
 </DirectoryEntry>
 
 <DirectoryEntry>
-<Name>Angel Duma</Name>
+<Name>Arthi Ponnan</Name>
 <Telephone>106</Telephone>
 </DirectoryEntry>
 
